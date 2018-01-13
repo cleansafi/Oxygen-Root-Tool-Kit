@@ -50,4 +50,4 @@ echo         * Now Enjoy TWRP and SuperSu in your Mi Max 2!!
 cls
 echo.
 git remote add origin https://github.com/ratedcmk/Oxygen-Root-Tool-Kit.git
-git push -u origin master
+git push -u origin master 
